@@ -1,6 +1,7 @@
 # Geometric - algorithms
 Repository containts algoirthm from AGH UST Geometric Algorithms Course. 
 Most of the code was written in Python using Jupyter Nootbook enviroment with use of libraries such as numpy, tkinter, matplotlib, pandas ...
+First two laboratories use visualizer accessible [here](https://github.com/aghbit/Algorytmy-Geometryczne)
 
 The Course included :
 - lab1 -> points categorization using determinant method with numpy and my own implementation and comparison the result by different float use and accuracy of the calculations,
